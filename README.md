@@ -1,17 +1,5 @@
 1. Instalar PHP y MySQL
-   * ``sudo apt install -y \
-      php \
-      bzip2 \
-      curl \
-      mysql-client \
-      php-cli \
-      php-curl \
-      php-gd \
-      php-mbstring \
-      php-mysql \
-      php-xml \
-      php-zip \
-      php-intl``
+   * ``sudo apt install -y php bzip2 curl mysql-client php-cli php-curl php-gd php-mbstring php-mysql php-xml php-zip php-intl``
     * ``sudo apt install mariadb-server``
     * más info sobre MaríaDB [aquí](https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04) 
 2. Instalar Composer
